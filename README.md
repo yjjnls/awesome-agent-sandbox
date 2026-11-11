@@ -130,7 +130,7 @@ sequenceDiagram
     Node->>Store: Fetch missing pages / copy-on-write blocks
     Node->>Node: Restore VM state (tens of ms)
     Node-->>Agent: Ready endpoint / exec channel
-    Note over Node,Store: Pause re-snapshots state; fork restores N copies of one snapshot
+    Note over Node,Store: Pause re-snapshots state, and fork restores N copies of one snapshot
 ```
 
 ## Open-Source Runtimes
