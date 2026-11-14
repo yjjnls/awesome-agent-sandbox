@@ -165,6 +165,7 @@ Hosted sandbox APIs and cloud computers. Most bill per second and expose an SDK;
 - [Lizard Sandboxes](https://lizard.build/sandboxes) - Managed Firecracker microVM sandboxes with snapshots, live forks, per-second billing, and TypeScript and Python SDKs.
 - [VibeKit](https://docs.vibekit.sh/) - SDK for embedding coding agents into web applications with sandboxed execution across E2B, Daytona, Modal, and other providers.
 - [Runloop](https://www.runloop.ai/) - Fast devboxes with snapshots and repository connections, plus evaluation and production infrastructure for agents.
+- [SandBase Sandbox](https://www.sandbase.ai/sandbox) - Hosted E2B-compatible API for running commands and working with files in per-task workspaces. Runtime and network controls depend on the provider and template.
 - [CreateOS](https://createos.sh) - Governed microVM layer for deploying, isolating, monitoring, and auditing agents in the cloud, your VPC, or on-premise, with fork-based branching.
 - [exe.dev](https://exe.dev/) - Private two-second Ubuntu VMs for agents, built around a "computer per agent" model.
 - [AgentSphere](https://www.agentsphere.run/) - E2B-alternative microVM sandboxes with MCP integration for secure LLM code execution.
